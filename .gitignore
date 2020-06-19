@@ -1,0 +1,11 @@
+# Generated files
+bin/
+gen/
+out/
+
+# Log Files
+*.log
+
+# IntelliJ
+*.iml
+.idea/**
